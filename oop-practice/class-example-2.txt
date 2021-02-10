@@ -1,0 +1,13 @@
+History
+
+Attributes:
+teacher (string)
+students (integer)
+lessons (array)
+is_AP credit (boolean)
+
+Methods:
+teacher_name (updates teacher attribute)
+add_students (adds students to students attribute)
+list_lessons (lists lessons attribute)
+add_AP credit (changes AP credit to be true)
