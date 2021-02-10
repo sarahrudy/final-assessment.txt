@@ -1,0 +1,13 @@
+Turing
+
+Attributes:
+tuition = 20,000
+curriculum = ["Mod 0", "Mod 1", "Mod 2", "Mod 3", "Mod 4"]
+professors = ["Eric", "Margo", "Ellen"]
+scholarships_available = true
+
+Methods:
+pay_tuition: tuition = []
+add_classes: curriculum = ["Mod 0", "Mod 1", "Mod 2", "Mod 3", "Mod 4", "Mod 5"]
+hire_professors: professors = ["Eric", "Margo", "Ellen", "Sam"]
+apply_for_scholarships: scholarships_available = false
