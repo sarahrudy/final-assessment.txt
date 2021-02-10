@@ -1,0 +1,13 @@
+College
+
+Attributes:
+tuition (integer)
+curriculum (array)
+professors (array)
+scholarships_available (boolean)
+
+Methods:
+tuition_cost (returns value of tuition attribute)
+add_classes (adds classes to curriculum attribute)
+hire_professors (hires more professors)
+apply_for_scholarships (apply for scholarships_available attribute)
