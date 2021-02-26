@@ -9,5 +9,5 @@ is_AP credit = false
 Methods:
 change_teacher: teacher = "Mr. Roy"
 add_students: students = 23
-change_lessons: lessons = ["java_script", "css", "html"]
+change_lessons: lessons = ["java script", "css", "html"]
 add_AP credit: is_AP credit = true
