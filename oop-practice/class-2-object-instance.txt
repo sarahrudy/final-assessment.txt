@@ -10,4 +10,4 @@ Methods:
 change_teacher: teacher = "Mr. Roy"
 add_students: students = 23
 change_lessons: lessons = ["java script", "css", "html"]
-add_AP credit: is_AP_credit = true
+add_AP_credit: is_AP_credit = true
